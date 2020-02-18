@@ -1,0 +1,1 @@
+BrainFuck.exe "Hello World.txt"	"e.txt" -limit 20 "Golden Ratio.txt" -limit 20
